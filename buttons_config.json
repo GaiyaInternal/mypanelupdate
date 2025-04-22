@@ -1,6 +1,6 @@
 {
   "Supreme": true,
-  "Essential": true,
-  "Espb": true,
-  "hackb": true,
+  "Essential": false,
+  "Espb": false,
+  "hackb": false,
 }
