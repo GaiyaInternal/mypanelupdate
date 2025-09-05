@@ -1,7 +1,8 @@
 {
   "Supreme": true,
-  "Essential": true,
+  "Essential": false,
   "Espb": true,
   "hackb": true,
   "Specialb": true,
 }
+
